@@ -44,4 +44,4 @@ Open `Reto_Coolers_Glitch_Girls.ipynb` in Jupyter or Google Colab. The notebook 
 
 ## Team
 
-**Glitch Girls** — Valeria Arciga Valencia, Brisma Álvarez, Karen Estrada, Ximena Montes
+**Glitch Girls** — Valeria Arciga Valencia, Azereth Gutiérrez, Mayari Barrales, Ximena Montes
